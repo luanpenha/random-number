@@ -5,5 +5,5 @@ Esse é um projeto para criar um gerador de números inteiros aleatórios
 
 - HTML
 - CSS
-- Git e Github
 - JavaScript
+- Git e Github
